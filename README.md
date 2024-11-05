@@ -54,6 +54,9 @@ Excel Analysis:
 
 ### Data Analysis
 ---
+![Annotation 2024-11-05 111809](https://github.com/user-attachments/assets/196d55e8-0445-48c2-8cdc-ce19e3b9bcc6)
+
+![Annotation 2024-11-05 111739](https://github.com/user-attachments/assets/274d0d87-89b9-40cc-b1c3-96ef77034dcc)
 
 ### Data Visualization
 ---
