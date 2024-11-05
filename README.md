@@ -70,6 +70,12 @@ Excel Analysis:
 
 ### Data Visualization
 ---
+
+![WhatsApp Image 2024-11-05 at 14 33 06](https://github.com/user-attachments/assets/4f3c82f6-fffe-49db-a00d-bdeea7b78691)
+
+![WhatsApp Image 2024-11-05 at 14 33 06 (1)](https://github.com/user-attachments/assets/a18bce79-edc7-4bec-aa07-16a4d235616c)
+
+
 ### Recommendation
 ---
 
