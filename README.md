@@ -1,4 +1,4 @@
-# Project 1: Sales Performance Analysis for a Retail Store
+# **Project 1: Sales Performance Analysis for a Retail Store**
 
 ### Project Overview
 ---
@@ -42,6 +42,7 @@ Key Steps:
 - Remove duplicates.
 - Format date fields.
 - Filter out records with null values in crucial fields.
+
 ### Exploratory Data Analysis
 ---
 Excel Analysis:
@@ -54,6 +55,16 @@ Excel Analysis:
 ![Annotation 2024-11-05 111809](https://github.com/user-attachments/assets/196d55e8-0445-48c2-8cdc-ce19e3b9bcc6)
 
 ![Annotation 2024-11-05 111739](https://github.com/user-attachments/assets/274d0d87-89b9-40cc-b1c3-96ef77034dcc)
+
+![Annotation 2024-11-05 130002](https://github.com/user-attachments/assets/882f90d1-a84d-4577-9b6a-5429b120e060)
+
+![Annotation 2024-11-05 125934](https://github.com/user-attachments/assets/7020bfa9-8c88-402c-a97d-ebc0e2052aeb)
+
+![Annotation 2024-11-05 125906](https://github.com/user-attachments/assets/85fc09f5-2a4b-4f2a-9598-974b21b1688e)
+
+![Annotation 2024-11-05 125843](https://github.com/user-attachments/assets/bd2a036a-5724-47a1-b958-1a114e3c8db7)
+
+
 
 ### Data Visualization
 ---
