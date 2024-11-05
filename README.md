@@ -52,10 +52,12 @@ Excel Analysis:
 
 ### Data Analysis
 ---
+**Excel**
 ![Annotation 2024-11-05 111809](https://github.com/user-attachments/assets/196d55e8-0445-48c2-8cdc-ce19e3b9bcc6)
 
 ![Annotation 2024-11-05 111739](https://github.com/user-attachments/assets/274d0d87-89b9-40cc-b1c3-96ef77034dcc)
 
+**SQL**
 ![Annotation 2024-11-05 130002](https://github.com/user-attachments/assets/882f90d1-a84d-4577-9b6a-5429b120e060)
 
 ![Annotation 2024-11-05 125934](https://github.com/user-attachments/assets/7020bfa9-8c88-402c-a97d-ebc0e2052aeb)
@@ -120,10 +122,12 @@ Excel Analysis:
 
 ### Data Analysis
 ---
+**Excel**
 ![Annotation 2024-11-05 131303](https://github.com/user-attachments/assets/e54527bb-98c4-46d7-b8c5-ad87414d8513)
 
 ![Annotation 2024-11-05 131336](https://github.com/user-attachments/assets/71346305-e17a-43c5-8f6f-33723f186b7c)
 
+**SQL**
 ![WhatsApp Image 2024-11-05 at 13 07 14](https://github.com/user-attachments/assets/3fc3c123-7f24-4c62-8bc1-51cd218f3204)
 
 ![WhatsApp Image 2024-11-05 at 13 07 14 (1)](https://github.com/user-attachments/assets/70f3bddf-b954-424d-b7c3-fb145bee1241)
