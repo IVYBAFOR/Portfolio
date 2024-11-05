@@ -1,6 +1,4 @@
-# Portfolio
-
-### Project 1: Sales Performance Analysis for a Retail Store
+# Project 1: Sales Performance Analysis for a Retail Store
 
 ### Project Overview
 ---
