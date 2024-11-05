@@ -1,5 +1,4 @@
 # Portfolio
-This is where I documented my first project learning Data Analysis.
 
 ### Project 1: Sales Performance Analysis for a Retail Store
 
